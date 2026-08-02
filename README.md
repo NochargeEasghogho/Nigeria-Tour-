@@ -1,2 +1,22 @@
-# Nigeria-Tour-
-Is my first version of Nigeria tour easy way to see naija beyond gist 
+Nigeria Tour
+
+Discover Nigeria beyond the headlines.
+
+Features
+Tourist destinations
+Hotel booking
+Restaurant directory
+Events
+User accounts
+
+Technologies
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+
+## Project Structure
+
+```text
+...
